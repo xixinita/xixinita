@@ -1,6 +1,6 @@
 - 👋 Hola, soy @xixinita
 - 👀 Estoy interesada en el Diseño Gráfico, Multimedia y el arte en general. Iniciando en la programación.
-- 🌱 Estoy estudiando Diseño Gráfico y Programación Full Stack 
+- 🌱 Estudié Diseño gráfico y ahora Desarrollo web y de apps :) 
 - 💞️ Me interesa formar equipos de trabajo multidisciplinarios, para crecer y  aprender en conjunto.
 - 📫 Estoy en instagram y facebook como Xixinita.  
 
